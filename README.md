@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **jalansatvik@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I8arhA__ruUX2sH8EMdkmiC1F4O3553V/view?usp=share_link](https://drive.google.com/file/d/1I8arhA__ruUX2sH8EMdkmiC1F4O3553V/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
