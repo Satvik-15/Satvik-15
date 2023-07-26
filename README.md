@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satvik</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 🌱 I’m currently learning **Backend Development using Django**
+- 🌱 I’m currently learning **Full Stack Web Development (MERN)**
 
 - 📝 I regularly write articles on [https://medium.com/@satvikjalan15](https://medium.com/@satvikjalan15)
 
